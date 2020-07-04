@@ -1,6 +1,11 @@
 addition:
 	a+b //code for addition
 
+multiplication:
+	a*b //code for multiplication
+
 subtraction:
 	a-b //code for addition
- 
+
+division:
+	a/b //code for division
