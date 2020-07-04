@@ -1,0 +1,5 @@
+addition:
+	a+b //code for addition
+
+subtraction:
+	a-b //code for addition
